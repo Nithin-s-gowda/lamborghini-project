@@ -1,0 +1,21 @@
+ #images{       background:url(cource.jpg);
+				width:1400px;
+				height:750px;
+				background-position:center;}
+             
+	#text{
+			     font-family:arial;		
+                  font-size:45px;	
+                  color:black;	
+                  text-align:left;
+				   display:block;
+					  background-color:white;}
+				  
+	  #container{ font-family:Impact;		
+                  font-size:40px;	
+                  color:black;	
+                  text-align:center;
+				  display:block;
+				  background-color:white;
+				  }
+			 

@@ -1,0 +1,11 @@
+<img
+          id="prev"
+          src="http://codingflag.in/codes/Html_Web/20160803020849pm53/images/ARROW_BACK.png"
+          alt="Previous"
+        />
+
+ <img
+          id="next"
+          src="http://codingflag.in/codes/Html_Web/20160803020849pm53/images/ARROW_NEXT.png"
+          alt="Next"
+        />

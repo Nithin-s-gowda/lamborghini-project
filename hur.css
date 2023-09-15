@@ -1,0 +1,30 @@
+body{background-image:url("ab1.jpg")}
+ul {margin:0px; padding:0px;}
+ul li a {text-decoration:none;
+	     color:white;
+		 display:block;
+		 }
+		 
+	 ul li { float:down;
+	      width:1400px;
+		  height:90px;
+		  background-color:BLACK;
+		  font-size:20px;
+		  line-height:40px;
+	 text-align:center;
+	      opacity:.8;
+		  border:1px soft #285189;}
+		  
+	
+	ul li a:hover {
+		 background-color:orange;}
+
+   ul li  ul li {
+	 display:none;}
+   ul li:hover ul li {
+	   display:block;}
+	   
+	   *{
+		   margin :0px;
+		   padding:0px;
+	   }
